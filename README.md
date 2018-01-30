@@ -1,5 +1,6 @@
 # Spring Boot Actuator - `WebMvcMetricsFilter` breaks character encoding
 
+**UPDATE**:
 This issue affects Spring Boot `2.0.0.M6` onwards and was fixed in `2.0.0.RC1`. See [gh-11607](https://github.com/spring-projects/spring-boot/issues/11607).
 
 ---
